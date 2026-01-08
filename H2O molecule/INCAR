@@ -1,0 +1,54 @@
+Global Parameters
+ISTART =  1            (Read existing wavefunction, if there)
+ISPIN  =  2            (Non-Spin polarised DFT)
+# ICHARG =  11         (Non-self-consistent: GGA/LDA band structures)
+LREAL  = .FALSE.       (Projection operators: automatic)
+# ENCUT  =  400        (Cut-off energy for plane wave basis set, in eV)
+# PREC   =  Accurate   (Precision level: Normal or Accurate, set Accurate when perform structure lattice relaxation calculation)
+LWAVE  = .FALSE.       (Write WAVECAR or not)
+LCHARG = .FALSE.       (Write CHGCAR or not)
+ADDGRID= .TRUE.        (Increase grid, helps GGA convergence)
+# LVTOT  = .TRUE.      (Write total electrostatic potential into LOCPOT or not)
+# LVHAR  = .TRUE.      (Write ionic + Hartree electrostatic potential into LOCPOT or not)
+#NELECT =  310          (No. of electrons: charged cells, be careful)
+# LPLANE = .TRUE.      (Real space distribution, supercells)
+# NWRITE = 2           (Medium-level output)
+# KPAR   = 2           (Divides k-grid into separate groups)
+# NGXF    = 300        (FFT grid mesh density for nice charge/potential plots)
+# NGYF    = 300        (FFT grid mesh density for nice charge/potential plots)
+# NGZF    = 300        (FFT grid mesh density for nice charge/potential plots)
+
+
+Electronic Relaxation
+IBRION =  2            (SINGLE POINT = -1, Conjugate gradient = 2)
+ISMEAR =  0            (Gaussian smearing, metals:1, DOS: -5)
+SIGMA  =  0.05         (Smearing value in eV, metals:0.2)
+#NELM   =  90           (Max electronic SCF steps)
+#NELMIN =  6            (Min electronic SCF steps)
+EDIFF  =  1E-04        (SCF energy convergence, in eV)
+# GGA  =  PS           (PBEsol exchange-correlation)
+ 
+Ionic Relaxation
+NSW    =  321          (Max ionic steps)
+IBRION =  2            (Algorithm: 0-MD, 1-Quasi-New, 2-CG)
+ISIF   =  2            (Stress/relaxation: 2-Ions, 3-Shape/Ions/V, 4-Shape/Ions)
+EDIFFG =  -1E-02        (Ionic convergence, eV/AA)
+# ISYM =  2            (Symmetry: 0=none, 2=GGA, 3=hybrids)
+ENCUT  =  500
+
+#LDA/GGA+U Parameters
+#LMAXMIX  = 6
+#LDAU     = .TRUE.      (or .FALSE.)
+#LDAUTYPE = 2           (or 2)
+#LDAUL    = -1 2 -1 2     (l-quantum number on which U acts ((1._q,0._q) for #each type)
+#LDAUU    = 0 4.6 0 6.0     (U coefficient (coulomb interaction) for each species)
+#LDAUJ    = 0 0 0 0       (J coefficient (exchange) for each species)
+
+Van der Waals
+#LVDW     = .TRUE.
+IVDW = 11
+
+Spin Parameters
+#MAGMOM   = 20*0.6
+#NUPDOWN  = 1 -1
+
