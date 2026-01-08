@@ -42,11 +42,17 @@ DFT calculations and derived thermodynamic results.
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
+  - FQ
+    -INCAR
+    -KPOINTS
 - H2O molecule:
   - INCAR
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
+  - FQ
+    -INCAR
+    -KPOINTS
 
 ### Surface energy calculations of low index planes 
 - cubic HfO2(111) 
@@ -54,18 +60,27 @@ DFT calculations and derived thermodynamic results.
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
+  - FQ
+    -INCAR
+    -KPOINTS
 
 - cubic HfO2(110)
   - INCAR
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
+  - FQ
+    -INCAR
+    -KPOINTS
 
 - cubic HfO2(100)
   - INCAR
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
+  - FQ
+    -INCAR
+    -KPOINTS
 
 ### Adsorption of H20 on cubic HfO2 (111) surface
 - H2O coverages:
@@ -74,24 +89,36 @@ DFT calculations and derived thermodynamic results.
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
+    - FQ
+      -INCAR
+      -KPOINTS
 
   - 0.5 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
+    - FQ
+      -INCAR
+      -KPOINTS
   
   - 0.75 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
+    - FQ
+      -INCAR
+      -KPOINTS
       
   - 1.0 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
+    - FQ
+      -INCAR
+      -KPOINTS
 
 ### Processed data
 - Representative thermodynamic data used to construct:
