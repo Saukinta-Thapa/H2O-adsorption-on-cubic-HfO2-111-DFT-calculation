@@ -30,7 +30,7 @@ DFT calculations and derived thermodynamic results.
 - **Relaxation scheme:** bottom layer fixed, upper layer fully relaxed
 - **Thermodynamic analysis:** ab initio thermodynamics with vibrational, entropy,
   and pressure contributions
-- **Post-processing:** VASPKIT
+- **Post-processing:** VASPKIT 
 
 ---
 
@@ -44,8 +44,8 @@ DFT calculations and derived thermodynamic results.
   - KPOINTS
   - Readme.md
   - Fq
-    -INCAR
-    -Readme.md
+    - INCAR
+    - Readme.md
 - H2O molecule:
   - INCAR
   - POSCAR (initial structure)
@@ -53,8 +53,8 @@ DFT calculations and derived thermodynamic results.
   - KPOINTS
   - Readme.md
   - Fq
-    -INCAR
-    -Readme.md
+    - INCAR
+    - Readme.md
 
 ### Surface energy calculations of low index planes of cubic HfO2 
 - Surface Energy
@@ -64,8 +64,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
 
   - 110 plane
     - INCAR
@@ -73,8 +73,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
 
   - 111 plane
     - INCAR
@@ -82,8 +82,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
 
 ### Adsorption of H20 on cubic HfO2 (111) surface
 - Water(H2O) coverages:
@@ -93,8 +93,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
 
   - 0.5 ML
     - INCAR
@@ -102,8 +102,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
   
   - 0.75 ML
     - INCAR
@@ -111,8 +111,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
       
   - 1.0 ML
     - INCAR
@@ -120,8 +120,8 @@ DFT calculations and derived thermodynamic results.
     - CONTCAR (optimized structure)
     - KPOINTS
     - Fq
-      -INCAR
-      -Readme.md
+      - INCAR
+      - Readme.md
 
 ### Processed data
 - Representative thermodynamic data used to construct:
