@@ -42,83 +42,86 @@ DFT calculations and derived thermodynamic results.
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
-  - FQ
+  - Readme.md
+  - Fq
     -INCAR
-    -KPOINTS
+    -Readme.md
 - H2O molecule:
   - INCAR
   - POSCAR (initial structure)
   - CONTCAR (optimized structure)
   - KPOINTS
-  - FQ
+  - Readme.md
+  - Fq
     -INCAR
-    -KPOINTS
+    -Readme.md
 
-### Surface energy calculations of low index planes 
-- cubic HfO2(111) 
-  - INCAR
-  - POSCAR (initial structure)
-  - CONTCAR (optimized structure)
-  - KPOINTS
-  - FQ
-    -INCAR
-    -KPOINTS
+### Surface energy calculations of low index planes of cubic HfO2 
+- Surface Energy
+  - 111 plane
+    - INCAR
+    - POSCAR (initial structure)
+    - CONTCAR (optimized structure)
+    - KPOINTS
+    - Fq
+      -INCAR
+      -Readme.md
 
-- cubic HfO2(110)
-  - INCAR
-  - POSCAR (initial structure)
-  - CONTCAR (optimized structure)
-  - KPOINTS
-  - FQ
-    -INCAR
-    -KPOINTS
+  - 110 plane
+    - INCAR
+    - POSCAR (initial structure)
+    - CONTCAR (optimized structure)
+    - KPOINTS
+    - Fq
+      -INCAR
+      -Readme.md
 
-- cubic HfO2(100)
-  - INCAR
-  - POSCAR (initial structure)
-  - CONTCAR (optimized structure)
-  - KPOINTS
-  - FQ
-    -INCAR
-    -KPOINTS
+  - 100 plane
+    - INCAR
+    - POSCAR (initial structure)
+    - CONTCAR (optimized structure)
+    - KPOINTS
+    - Fq
+      -INCAR
+      -Readme.md
 
 ### Adsorption of H20 on cubic HfO2 (111) surface
-- H2O coverages:
+- Water(H2O) coverages:
   - 0.25 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
-    - FQ
+    - Fq
       -INCAR
-      -KPOINTS
+      -Readme.md
 
   - 0.5 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
-    - FQ
+    - Fq
       -INCAR
-      -KPOINTS
+      -Readme.md
   
   - 0.75 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
-    - FQ
+    - Fq
       -INCAR
-      -KPOINTS
+      -Readme.md
       
   - 1.0 ML
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
     - KPOINTS
-    - FQ
+    - Fq
       -INCAR
-      -KPOINTS
+      -Readme.md
 
 ### Processed data
 - Representative thermodynamic data used to construct:
