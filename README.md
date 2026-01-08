@@ -58,7 +58,7 @@ DFT calculations and derived thermodynamic results.
 
 ### Surface energy calculations of low index planes of cubic HfO2 
 - Surface Energy
-  - 111 plane
+  - 100 plane
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
@@ -76,7 +76,7 @@ DFT calculations and derived thermodynamic results.
       -INCAR
       -Readme.md
 
-  - 100 plane
+  - 111 plane
     - INCAR
     - POSCAR (initial structure)
     - CONTCAR (optimized structure)
