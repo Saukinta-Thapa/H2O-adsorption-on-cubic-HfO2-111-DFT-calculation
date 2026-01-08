@@ -124,12 +124,11 @@ DFT calculations and derived thermodynamic results.
 - Representative thermodynamic data used to construct:
   - Gibbs adsorption free energy plots
 
-    <img width="1023" height="496" alt="image" src="https://github.com/user-attachments/assets/a3c3378b-0b8f-42a7-9d28-72a732d1e8e5" />
+    <img width="1028" height="495" alt="image" src="https://github.com/user-attachments/assets/690445c4-b56e-4204-9fdc-14f3ddac98b1" />
 
   - Pressure–temperature (P–T) phase diagram
 
-    <img width="497" height="498" alt="image" src="https://github.com/user-attachments/assets/a63fce2b-4873-4a9d-884c-e5b9bf13157b" />
-
+    <img width="394" height="401" alt="image" src="https://github.com/user-attachments/assets/b175eee1-836e-42fb-b396-e7bfa3e4bc7d" />
 ---
 
 ## Notes on data availability
