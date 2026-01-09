@@ -84,6 +84,11 @@ DFT calculations and derived thermodynamic results.
     - Fq
       - INCAR
       - Readme.md
+    - Not Fix 111 plane
+      - INCAR
+      - POSCAR (initial structure)
+      - CONTCAR (optimized structure)
+      - KPOINTS
 
 ### Adsorption of H20 on cubic HfO2 (111) surface
 - Water(H2O) coverages:
