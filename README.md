@@ -145,3 +145,4 @@ DFT calculations and derived thermodynamic results.
 - The provided files are representative and sufficient to reproduce the results reported
   in the manuscript.
 - Full raw data are available from the corresponding author upon reasonable request.
+- Materials Data on HfO2 by Materials Project. United States: N. p., 2020. Web. doi:10.17188/1267443.
