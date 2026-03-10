@@ -100,6 +100,24 @@ DFT calculations and derived thermodynamic results.
     - Fq
       - INCAR
       - Readme.md
+    - SCF
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - DOS
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - Bader Analysis
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
 
   - 0.5 ML
     - INCAR
@@ -108,6 +126,24 @@ DFT calculations and derived thermodynamic results.
     - KPOINTS
     - Fq
       - INCAR
+      - Readme.md
+    - SCF
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - DOS
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - Bader Analysis
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
       - Readme.md
   
   - 0.75 ML
@@ -118,6 +154,24 @@ DFT calculations and derived thermodynamic results.
     - Fq
       - INCAR
       - Readme.md
+    - SCF
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - DOS
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - Bader Analysis
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
       
   - 1.0 ML
     - INCAR
@@ -126,6 +180,24 @@ DFT calculations and derived thermodynamic results.
     - KPOINTS
     - Fq
       - INCAR
+      - Readme.md
+    - SCF
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - DOS
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
+      - Readme.md
+    - Bader Analysis
+      - INCAR
+      - KOINTS
+      - POSCAR
+      - CONTCAR
       - Readme.md
 
 ### Processed data
