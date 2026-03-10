@@ -130,14 +130,13 @@ DFT calculations and derived thermodynamic results.
 
 ### Processed data
 - Representative thermodynamic data used to construct:
-  - Gibbs adsorption free energy plots
+  - Gibbs free energy vs temperature
+    <img width="1332" height="643" alt="image" src="https://github.com/user-attachments/assets/d0466c83-1509-48e5-a182-676e99dd7b0c" />
 
-    <img width="1028" height="495" alt="image" src="https://github.com/user-attachments/assets/690445c4-b56e-4204-9fdc-14f3ddac98b1" />
 
   - Pressure–temperature (P–T) phase diagram
 
-    <img width="394" height="401" alt="image" src="https://github.com/user-attachments/assets/b175eee1-836e-42fb-b396-e7bfa3e4bc7d" />
----
+    <img width="640" height="643" alt="image" src="https://github.com/user-attachments/assets/06e71fcf-2449-410b-82b2-9ba139c1fc7b" />
 
 ## Notes on data availability
 - **POTCAR files are not included** due to VASP license restrictions.
